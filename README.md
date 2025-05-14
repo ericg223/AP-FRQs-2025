@@ -1,3 +1,3 @@
 # AP-FRQs-2025
 
-*solution written by Eric Gao*
+*Solutions written by Eric Gao*
