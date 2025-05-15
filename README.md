@@ -23,7 +23,8 @@ Through this review process, I've identified these areas for continued learning:
 ## Resources
 Resources I found helpful during my exam preparation and review:
 
-- Well Explained Full Course Playlist[https://www.youtube.com/watch?v=BjRvQbWsTfM&list=PLmpmyPywZ440vPqpAPeUkE-TeKifbS45W&pp=0gcJCV8EOCosWNin](url)
+- Well Explained Full Course Playlist
+- [https://www.youtube.com/watch?v=BjRvQbWsTfM&list=PLmpmyPywZ440vPqpAPeUkE-TeKifbS45W&pp=0gcJCV8EOCosWNin](url)
 - [Resource name and link]
 - [Resource name and link]
 
