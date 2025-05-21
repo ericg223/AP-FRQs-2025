@@ -18,7 +18,6 @@ public class SignedText {
 
     public String addSignature(String text) {
         int index = text.indexOf(getSignature());
-        System.out.println(index);
         if (index == 0 ) { //begin
             return text.substring(getSignature().length()) + getSignature();
         } else if (index == -1) { //none
