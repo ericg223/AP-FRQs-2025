@@ -1,7 +1,7 @@
-## Question 1 Analysis
-### Dog Walker
+## Question 3 Analysis
+### Competitors
 
-This section contains my analysis of Question 1 (Methods and Control Structures):
+This section contains my analysis of Question 3 (Arrays and Arraylist):
 
 #### My initial approach during the exam:
 - Ideas here
@@ -10,7 +10,7 @@ This section contains my analysis of Question 1 (Methods and Control Structures)
 - Ideas here
   
 #### Key concepts tested in this question:
-- Ideas here
+  Key concepts tested in this question was knowing how to loop values into an array list and how to create one. 
   
 #### What I learned from revisiting this problem:
 - Ideas here
