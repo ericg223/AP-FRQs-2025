@@ -9,10 +9,7 @@ public boolean clearPair(int row, int col) {
           grid[i][j] = 0;
           return true;
         }
-      }
-      
+      }   
     }
   }
-
-
 }
