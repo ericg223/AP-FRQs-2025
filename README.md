@@ -23,7 +23,7 @@ Through this review process, I've identified these areas for continued learning:
 ## Resources
 Resources I found helpful during my exam preparation and review:
 
-- Well Explained Full Course Playlist [https://www.youtube.com/watch?v=BjRvQbWsTfM&list=PLmpmyPywZ440vPqpAPeUkE-TeKifbS45W](url) (copy-paste link if it doesn't work)
+- Very Well Explained Full Course Playlist [https://www.youtube.com/watch?v=BjRvQbWsTfM&list=PLmpmyPywZ440vPqpAPeUkE-TeKifbS45W](url) (copy-paste link if it doesn't work)
 - Doing all of College Board's Progress Check at April/May
 - Albert.io multiple choice questions
 
