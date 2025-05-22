@@ -7,6 +7,4 @@ public SumOrSameGame(int numRows, int numCols) {
       puzzle[i][j] = ranNum;
     }
   }
-  
-
 }
