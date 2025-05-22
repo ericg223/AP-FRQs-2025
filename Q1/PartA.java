@@ -3,8 +3,5 @@ public int walkDogs(int hour) {
   if (numDogs >= maxDogs) {
     return maxDogs;
   } 
-
   return numDogs;
-
-
 }
