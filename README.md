@@ -16,7 +16,7 @@ In this section, I reflect on my overall experience taking the AP Computer Scien
 
 ## Niche Topics to Know
 - Short Circuiting
-- && has a higher precedence than ||, use () if you want to || to go first.
+- && has a higher precedence than | |, use ( ) if you want | | to go first.
 - Arrays that are changed inside another method are also changed for the original variable because they are a reference type.
 - compareTo() can be treated as a subtration sign. Example, the ascii value for a is 97 and b is 98. "a".compareTo("b") will return -1. You do not need to know the extact values for a and b just know that b is 1 greater than a and c is 2 greater than a and etc.
 - When removing objects from arrays, you must go backward.
