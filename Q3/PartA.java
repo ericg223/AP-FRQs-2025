@@ -4,6 +4,4 @@ public Round(String[] names) {
     ArrayList.add(new Competitor(competitorList.get(i), i+1);
   }
 
-
-
 }
